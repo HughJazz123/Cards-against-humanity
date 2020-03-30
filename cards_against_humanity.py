@@ -83,5 +83,5 @@ while True:
         space()
         print("Final scores:")
         for i in range(p):
-            print(players[i]+": "+str(score_keeper[i])+" points")
+            print(players[i]+": "+str(score_keeper[i])+" point(s)")
         break
